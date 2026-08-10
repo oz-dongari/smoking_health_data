@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Smoking and Health Data Analysis</title>
+  <desc id="desc">Pastel project header for the Team 11 smoking and health data analysis.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFDF9"/>
+      <stop offset="0.52" stop-color="#F7FBFF"/>
+      <stop offset="1" stop-color="#FBF7FF"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="140" y1="80" x2="1460" y2="450" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF8F0"/>
+      <stop offset="1" stop-color="#F5EFE8"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#334155" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="520" rx="32" fill="url(#bg)"/>
+
+  <g opacity="0.66" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 94 C76 65 117 66 132 94 C148 78 180 84 187 110 C194 136 172 154 143 151 H91 C62 151 44 131 48 111 C49 104 50 99 52 94 Z" fill="#D9F2FF" stroke="#BDE6F6" stroke-width="5"/>
+    <path d="M1436 72 C1458 52 1492 57 1502 83 C1520 67 1547 77 1550 101 C1553 126 1532 141 1507 140 H1458 C1435 140 1420 124 1423 106 C1425 92 1429 81 1436 72 Z" fill="#E7F6E8" stroke="#CEE9D0" stroke-width="5"/>
+    <path d="M93 423 q27 -33 54 0 q-27 36 -54 0" fill="none" stroke="#DAC8EF" stroke-width="9"/>
+    <path d="M1450 421 q26 -31 52 0 q-26 34 -52 0" fill="none" stroke="#F7BFCE" stroke-width="9"/>
+  </g>
+
+  <rect x="140" y="74" width="1320" height="372" rx="38" fill="url(#panel)" filter="url(#shadow)"/>
+  <rect x="141" y="75" width="1318" height="370" rx="37" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-opacity="0.86"/>
+
+  <rect x="196" y="126" width="62" height="62" rx="13" fill="#111111"/>
+  <text x="227" y="158" text-anchor="middle" dominant-baseline="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="800">oz.</text>
+  <text x="286" y="144" dominant-baseline="middle" fill="#64748B" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2">AI HEALTHCARE MINI PROJECT · TEAM 11</text>
+  <text x="286" y="174" dominant-baseline="middle" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600">EDA · VISUALIZATION · GROUP COMPARISON</text>
+
+  <text x="196" y="252" dominant-baseline="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="800">SMOKING &amp; HEALTH DATA</text>
+  <text x="196" y="307" dominant-baseline="middle" fill="#334155" font-family="'NanumSquare', 'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif" font-size="27" font-weight="700">흡연 여부 데이터 분석을 통한 건강 인사이트 도출</text>
+  <text x="196" y="349" dominant-baseline="middle" fill="#64748B" font-family="'NanumSquare', 'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif" font-size="19">건강검진 7,000건에서 BMI · 충치 · 중성지방 · 혈압과 흡연의 관계를 탐색했습니다.</text>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">
+    <rect x="196" y="382" width="164" height="42" rx="21" fill="#D8F1FD"/>
+    <text x="278" y="404" text-anchor="middle" dominant-baseline="middle" fill="#24556D">7,000 records</text>
+    <rect x="372" y="382" width="142" height="42" rx="21" fill="#FFE6C2"/>
+    <text x="443" y="404" text-anchor="middle" dominant-baseline="middle" fill="#7A4A19">18 columns</text>
+    <rect x="526" y="382" width="184" height="42" rx="21" fill="#DDF3E4"/>
+    <text x="618" y="404" text-anchor="middle" dominant-baseline="middle" fill="#315D3A">Python · pandas</text>
+    <rect x="722" y="382" width="202" height="42" rx="21" fill="#EAE1FA"/>
+    <text x="823" y="404" text-anchor="middle" dominant-baseline="middle" fill="#5B4676">seaborn · matplotlib</text>
+  </g>
+
+  <g transform="translate(1198 240)">
+    <circle r="116" fill="#FFFFFF" opacity="0.72"/>
+    <circle r="92" fill="#FFF3F5" opacity="0.92"/>
+    <path d="M0 -39 C-25 -62 -64 -46 -64 -12 C-64 31 0 70 0 70 C0 70 64 31 64 -12 C64 -46 25 -62 0 -39 Z" fill="#F58C9B"/>
+    <path d="M-35 14 H-15 L-6 -14 L8 32 L22 7 H42" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle r="4" fill="#FFFFFF">
+      <animateMotion dur="3.4s" repeatCount="indefinite" path="M-35 14 H-15 L-6 -14 L8 32 L22 7 H42"/>
+    </circle>
+  </g>
+
+  <g transform="translate(1110 358)">
+    <rect x="0" y="54" width="24" height="38" rx="7" fill="#A8DCF5"/>
+    <rect x="42" y="40" width="24" height="52" rx="7" fill="#F3BF7C"/>
+    <rect x="84" y="22" width="24" height="70" rx="7" fill="#A7DEBC"/>
+    <rect x="126" y="0" width="24" height="92" rx="7" fill="#BDAAEF"/>
+    <path d="M-6 103 H158" stroke="#CBD5E1" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>
