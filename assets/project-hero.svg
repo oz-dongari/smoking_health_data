@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
   <title id="title">Smoking and Health Data Analysis</title>
-  <desc id="desc">Pastel project header for the Team 11 smoking and health data analysis.</desc>
+  <desc id="desc">Team 11 smoking and health data analysis.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="520" gradientUnits="userSpaceOnUse">
       <stop stop-color="#FFFDF9"/>
@@ -34,8 +34,8 @@
   <text x="286" y="174" dominant-baseline="middle" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600">EDA · VISUALIZATION · GROUP COMPARISON</text>
 
   <text x="196" y="252" dominant-baseline="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="800">SMOKING &amp; HEALTH DATA</text>
-  <text x="196" y="307" dominant-baseline="middle" fill="#334155" font-family="'NanumSquare', 'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif" font-size="27" font-weight="700">흡연 여부 데이터 분석을 통한 건강 인사이트 도출</text>
-  <text x="196" y="349" dominant-baseline="middle" fill="#64748B" font-family="'NanumSquare', 'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif" font-size="19">건강검진 7,000건에서 BMI · 충치 · 중성지방 · 혈압과 흡연의 관계를 탐색했습니다.</text>
+  <text x="196" y="307" dominant-baseline="middle" fill="#334155" font-family="'NanumSquare', 'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif" font-size="27" font-weight="700">흡연 여부별 건강 지표 분석</text>
+  <text x="196" y="349" dominant-baseline="middle" fill="#64748B" font-family="'NanumSquare', 'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif" font-size="19">7,000건 · 18개 컬럼 · BMI · 충치 · 중성지방 · 혈압</text>
 
   <g font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">
     <rect x="196" y="382" width="164" height="42" rx="21" fill="#D8F1FD"/>
