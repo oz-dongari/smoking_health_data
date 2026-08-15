@@ -58,6 +58,8 @@ BMI 구간별 흡연자 비율은 정상 `30.6%` → 비만전단계 `39.6%` →
 ```text
 smoking_health_data/
 ├── README.md
+├── LICENSE
+├── CONTRIBUTORS.md
 ├── requirements.txt
 └── assets/
     ├── project-hero.svg
@@ -69,6 +71,11 @@ smoking_health_data/
 ## Team
 
 **김진형 · 남한솔 · 안상균 · 이희진**  
-OZ Coding School · 11조 헬스 케어 동아리
+OZ Coding School · 11조 헬스 케어 동아리  
+[`CONTRIBUTORS.md`](CONTRIBUTORS.md)
 
 Organization: [`oz-dongari`](https://github.com/oz-dongari)
+
+## License
+
+**All Rights Reserved.** 복제·수정·배포·재사용에는 저작권자 사전 허가가 필요합니다. [`LICENSE`](LICENSE)
