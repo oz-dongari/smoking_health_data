@@ -60,3 +60,9 @@
 - text 파일에 row-level train/test ID preview가 다시 들어오는 것을 방지
 
 이 guard는 데이터 라이선스를 대신 판단하지 않으며, default branch 공개 경계를 유지하기 위한 기술적 방어선입니다.
+
+
+## CI status
+
+Default branch changes are checked by `.github/workflows/public-data-boundary.yml`.  
+The check is intended to fail closed if raw tabular files, row-level train/test ID previews, or executed Notebook outputs are committed.
